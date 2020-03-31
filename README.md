@@ -15,8 +15,8 @@ $ pip install git+https://github.com/takuseno/configurable-control-gym
 ## supported environments
 All environments are adapted to continuous action-space even if the original environment supports only discrete action-space.
 
-|:-:|:-:|:-:|
 | name | original environment | configurable parameters (default value) |
+|:-:|:-:|:-:|
 | ConfigurableCartPole-v0 | CartPole-v0 | force(10.0), length(0.5), mass(0.1) |
 | ConfigurablePendulum-v0 | Pendulum-v0 | force(10.0), length(1.0), mass(1.0) |
 | ConfigurableAcrobot-v0 | Acrobot-v0 | length(1.0), mass(1.0), moi(1.0) |
