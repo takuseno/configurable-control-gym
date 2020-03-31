@@ -32,7 +32,7 @@ import configurable_control_gym
 env = gym.make('ConfigurableCartPole-v0', length=2.0)
 ```
 
-### set rages of parametes
+### set ranges of parameters
 Multiple parameter ranges can be set at each parameter.
 At every `reset` call, the parameters are uniformly sampled from the given ranges.
 
