@@ -1,6 +1,6 @@
 # configurable_control_gym
 This repository provides configurable control tasks based on default environments included in [OpenAI Gym](https://github.com/openai/gym).
-This work is inspired by [Packer et al's paper](https://arxiv.org/abs/1810.12282).
+This work is inspired by [Packer et al, "Assessing Generalization in Deep Reinforcement Learning", 2018](https://arxiv.org/abs/1810.12282).
 
 This program is especially useful to the following deep reinforcement learning research projects:
 - assessing generalization performance
