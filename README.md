@@ -21,7 +21,7 @@ All environments are adapted to continuous action-space even if the original env
 | ConfigurablePendulum-v0 | Pendulum-v0 | force(10.0), length(1.0), mass(1.0) |
 | ConfigurableAcrobot-v0 | Acrobot-v0 | length(1.0), mass(1.0), moi(1.0) |
 | ConfigurableMountainCar-v0 | Continuous_MountainCar-v0 | force(0.001), mass(0.0025) |
-| ConfigurableWalker-v0 | BipedalWalker-v2 | torque(80), friction(2.5), length(34) |
+| ConfigurableBipedalWalker-v0 | BipedalWalker-v2 | torque(80), friction(2.5), length(34) |
 
 ## usage
 ### set fixed parameters
